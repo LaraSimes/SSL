@@ -9,3 +9,5 @@ Lara
 ## Numero y titulo del trabajo
 00 - Hello, World!
 ## Transcripción del enunciado
+
+## Hipotesis del trabajo
